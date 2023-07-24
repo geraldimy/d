@@ -1,11 +1,11 @@
 {
-   "name": "geraldimy/dailymotion",
+   "name": "geraldimy/dailymotions",
     "description": "Dailymotion API Support PHP 8 with namespace support",
     "version": "1.0.0",
     "minimum-stability": "stable",
     "license": "MIT",
     "keywords": ["dailymotion","videos","search"],
-    "homepage": "https://github.com/geraldimy/dailymotion",
+    "homepage": "https://github.com/geraldimy/dailymotions",
     "authors": [
         {
             "name": "Geraldi Muhammad",

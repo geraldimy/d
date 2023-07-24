@@ -1,12 +1,12 @@
 # Dailymoition Web Service SDK for PHP
 
-This package is another version for https://github.com/dailymotion/dailymotion-sdk-php with support of PHP namespace. Works well with Yii2 and Laravel.
+This package is another version for https://github.com/dailymotion/dailymotion-sdk-php with support of PHP 8 namespace. Works well with Yii2 and Laravel.
 
 # Installation:
 
     {
         "require": {
-            "geraldimy/dailymotion": "dev-master"
+            "geraldimy/dailymotions": "dev-master"
         }
     }
 
