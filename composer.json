@@ -1,0 +1,24 @@
+{
+   "name": "geraldimy/dailymotion",
+    "description": "Dailymotion API Support PHP 8 with namespace support",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "keywords": ["dailymotion","videos","search"],
+    "homepage": "https://github.com/geraldimy/dailymotion",
+    "authors": [
+        {
+            "name": "Geraldi Muhammad",
+            "email": "geraldimy21@gmail.com",
+            "role" : "Developer"
+        }
+    ],
+    "require": {
+        "php": ">8.0"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Dailymotion\\sdk\\": "sdk"
+        }
+    }
+}
